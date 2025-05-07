@@ -1,3 +1,5 @@
+![GREENMART GROCERY SALES REVIEW DASHBOARD BY AKINOLA MARY](https://github.com/user-attachments/assets/8b711d62-f446-4718-9532-65c368f958b7)
+
 1.Nancy performed best for the year with the grossing revenue $ 104,242.34.         
 2. Jan performed least for the year with the grossing revenue  of  $16,350.50 
 3. For the sales trend, December generated the highest revenue of  $  66,642.78, while February generated the least revenue of  $ 19,955.50.
